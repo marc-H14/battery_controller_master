@@ -1,0 +1,3 @@
+/home/marchofer/CLionProjects/battery_controller_master/cmake-build-debug/CMakeFiles/stm32_bat_ctrl.elf.dir
+/home/marchofer/CLionProjects/battery_controller_master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marchofer/CLionProjects/battery_controller_master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
